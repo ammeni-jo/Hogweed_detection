@@ -7,12 +7,12 @@ This project aims to enhance the detection and management of Giant Hogweed by in
 
 Key Features
 
-High-Resolution Imagery: Utilizes high-resolution images captured by UAVs for precise detection.
+-High-Resolution Imagery: Utilizes high-resolution images captured by UAVs for precise detection.
 
-Deep Learning Models: Implements convolutional neural networks (CNN) and vision transformers (ViT) for effective detection.
+-Deep Learning Models: Implements convolutional neural networks (CNN) and vision transformers (ViT) for effective detection.
 
-Accuracy: Achieves mAP scores of 0.68 and 0.60 in identifying Giant Hogweed.
+-Accuracy: Achieves mAP scores of 0.68 and 0.60 in identifying Giant Hogweed.
 
-Cost-Effective Surveillance: Drones enable swift and economical monitoring over extensive areas.
+-Cost-Effective Surveillance: Drones enable swift and economical monitoring over extensive areas.
 
-Timely Interventions: Facilitates prompt actions for the management and control of Giant Hogweed
+-Timely Interventions: Facilitates prompt actions for the management and control of Giant Hogweed
